@@ -1,0 +1,4 @@
+﻿  rock paper sciscor.cpp
+C:\Users\ACER\source\repos\rock paper sciscor\rock paper sciscor\rock paper sciscor.cpp(9,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\ACER\source\repos\rock paper sciscor\rock paper sciscor\rock paper sciscor.cpp(22,3): warning C4102: 'defult': unreferenced label
+  rock paper sciscor.vcxproj -> C:\Users\ACER\source\repos\rock paper sciscor\x64\Debug\rock paper sciscor.exe
